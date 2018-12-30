@@ -1,0 +1,9 @@
+*Puntos 1-6 se encuentran implementados en archivo ProyectoImagenes.ipynb. Al correr este notebook se presentan
+ algunos ejemplos, para consultar por otras imágenes es posible llamar directamente a la función parte6Pro(numeroImagenQuery,numeroDivisiones).
+*Punto 7 se encuentra implementado en el archivo ProyectoImagenes(metodoAlternativo).ipynb. El funcionamiento es análogo al anterior.
+*Punto 8 (final, se encuentra en el archivo ProyectoImagenes(IRP).ipynb, este archivo utiliza los archivos .npy adjuntos.
+
+En Caso de que se quiera descargar el proyecto completo, con las bases de datos y los resultados presentados en informe y .ppt 
+estos están en mi github: https://github.com/tmsl31/ProyectoImagenes-LabIntelingencia.
+
+Saludos!
